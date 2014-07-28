@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"><b>Lunch Menu</b></string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">About Us</string>
+    <string name="info">Information</string>
+    <string name="pref">Preferences</string>
+    <string name="eventlist">Menu List</string>
+    <string name="update">Update</string>
+<!--     
+    <string name="checkBox1"><b>Grilled Cheese</b></string>
+  	<string name="checkBox2"><b>Broccoli</b></string>
+  	<string name="checkBox3"><b>Potatoes</b></string>
+  	<string name="checkBox4"><b>Chicken</b></string>
+  	<string name="checkBox5"><b>Pepperoni</b></string>
+-->
+  	<string name="checkBox1"><b>Apple</b></string>
+  	<string name="checkBox2"><b>Orange</b></string>
+  	<string name="checkBox3"><b>banana</b></string>
+  	<string name="checkBox4"><b>grapes</b></string>
+  	<string name="checkBox5"><b>carrot</b></string>
+  	
+</resources>
