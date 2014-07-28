@@ -43,6 +43,9 @@ Lunch Menu app start screen
 A Smiley face is shown for the favourite food
 ![](http://i.imgur.com/sgRqWhc.png)
 
+Options Menu
+![](http://i.imgur.com/4muWpkl.png)
+
 User preferences are set from the options
 ![](http://i.imgur.com/yJ1JvHI.png)
 
@@ -54,6 +57,9 @@ The user can choose to update the app manually from the options
 
 General Information about the app
 ![](http://i.imgur.com/p7mWUc3.png)
+
+Info about Me 
+![](http://i.imgur.com/WnJINzn.png)
 
 Complete Menu List
 ![](http://i.imgur.com/Mj6idRt.png)
