@@ -1,7 +1,7 @@
 Lunch Menu App
 =======================
-Language: Java
-Environment: Eclipse , Android SDK
+**Language:** Java                                                               
+**Environment:** Eclipse , Android SDK
 
 
 This android app is an agenda calendar that fetches information about the Lunch Menu for a Local Elementary School.
