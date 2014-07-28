@@ -1,5 +1,6 @@
 Lunch Menu App
 =======================
+**Platform:** Android                                                                   
 **Language:** Java                                                               
 **Environment:** Eclipse , Android SDK
 
