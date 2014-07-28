@@ -313,7 +313,7 @@ public void aboutus()
 {
 	AlertDialog.Builder dialog = new AlertDialog.Builder(this);
 	dialog.setTitle(Html.fromHtml("<b><font color='#FF7F27' size='30'> The Team </font></b>"));
-	dialog.setMessage(Html.fromHtml("<font color='#708090'><b><br> Vinay Potluri <br> <br> Avinash Chettipalli <br><br>  Nagaratna Morbad <br><br> Sahithi Chukkapalli<br></b>"));
+	dialog.setMessage(Html.fromHtml("<font color='#708090'><b><br> Vinay Potluri <br> vinaypotluri8@gmail.com<br>http://www.about.me/vinaypotluri<br></b>"));
 	dialog.setPositiveButton(Html.fromHtml("<b>HiRE Us</b>"), null);
 	dialog.setCancelable(false);
 	dialog.create().show();
