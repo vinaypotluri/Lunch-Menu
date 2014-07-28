@@ -40,32 +40,32 @@ Layout are customized using the XML files which store the properties of the desi
 
 
 Lunch Menu app start screen
-A Smiley face is shown for the favourite food
+A Smiley face is shown for the favourite food                                                                   
 ![](http://i.imgur.com/sgRqWhc.png)
 
-Options Menu
+Options Menu                                                                                        
 ![](http://i.imgur.com/4muWpkl.png)
 
-User preferences are set from the options
+User preferences are set from the options                                                         
 ![](http://i.imgur.com/yJ1JvHI.png)
 
-The smiley disappears since veggies are not in the user preferences
+The smiley disappears since veggies are not in the user preferences                                         
 ![](http://i.imgur.com/OO2TluQ.png) 
 
-The user can choose to update the app manually from the options
+The user can choose to update the app manually from the options                                       
 ![](http://i.imgur.com/XTCLAxA.png)
 
-General Information about the app
+General Information about the app                                                                     
 ![](http://i.imgur.com/p7mWUc3.png)
 
-Info about Me 
+Info about Me                                                                                           
 ![](http://i.imgur.com/WnJINzn.png)
 
-Complete Menu List
+Complete Menu List                                                                                  
 ![](http://i.imgur.com/Mj6idRt.png)
 
-Push Notifications on user's favourites
+Push Notifications on user's favourites                                                                   
 ![](http://i.imgur.com/rxn2sGz.png)
 
-The app was successfully completed in a month
+The app was successfully completed in a month                                                             
 ![](http://i.imgur.com/mT28LIT.png)
